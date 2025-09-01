@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Rashi Kushwaha
 
-<!--
-**rashyy17/rashyy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a pre-final year **Computer Science student at VIT Vellore**, passionate about **Full-Stack Development, Problem Solving, and Software Engineering**.  
+I enjoy building web applications, solving algorithmic challenges, and learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Technologies
+
+**Languages:** Java, C++, Python, HTML, CSS, JavaScript  
+**Frameworks / Tools:** React, Node.js, Express, REST APIs, MongoDB, Git, GitHub  
+
+---
+
+## 💡 Core Competencies
+
+- Software Development Life Cycle (SDLC)  
+- Requirement Analysis  
+- Unit Testing & Debugging  
+- Problem Solving  
+- Team Collaboration  
+- Analytical Thinking  
+
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn:** [Rashi Kushwaha](https://www.linkedin.com/in/rashyy17)  
+- **Email:** rashi.kushwaha1709@gmail.com  
+
+
+**“Coding my way through full-stack apps & algorithm challenges 🚀”**
