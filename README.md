@@ -105,7 +105,7 @@ A full-stack RAG application for CRISPR guide-RNA design. It combines a **determ
   <img src="https://streak-stats.demolab.com/?user=rashyy17&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashyy17&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashyy17&layout=compact&theme=tokyonight&hide_border=true" height="166" alt="Top languages"/>
 </p>
 ---
 
