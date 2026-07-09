@@ -98,12 +98,4 @@ A full-stack RAG application for CRISPR guide-RNA design. It combines a **determ
 `Full-Stack Development` · `RAG & LLM Applications` · `Vector Search` · `System Design` · `REST APIs` · `LLM Fine-Tuning` · `Unit Testing & Debugging` · `Data Structures & Algorithms`
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rashyy17&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak"/>
-</p>
----
-
 <p align="center"><i>Building full-stack apps & AI tools, one debugged line at a time. 🚀</i></p>
